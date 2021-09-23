@@ -9,3 +9,4 @@ En esta asignatura aprenderemos a programar con Python:
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.2​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License.3​ Python se clasifica constantemente como uno de los lenguajes de programación más populares.
+![150px-Python-logo-notext svg](https://user-images.githubusercontent.com/46096370/134538417-55cfaebc-d22f-401d-bd8e-f70c17fbd3f7.ico)
